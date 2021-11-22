@@ -38,7 +38,7 @@ def jalan(z):
 ##### LOGO #####
 logo = """
    Saqii tech
-   ▄︻̷̿┻
+  
 
    THE ANONYMOUS  Saqii  TRICKER 
    THE LEGEND ℒℴνℯ
